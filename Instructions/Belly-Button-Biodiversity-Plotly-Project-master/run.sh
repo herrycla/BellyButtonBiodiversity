@@ -1,0 +1,1 @@
+FLASK_APP=Plotly-JS-BellyButton-Biodiversity/app.py flask run
